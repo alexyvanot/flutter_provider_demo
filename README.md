@@ -1,16 +1,22 @@
-# flutter_provider_demo
+# Flutter Provider Demo
 
-A new Flutter project.
+![Aperçu du programme](</apppage.png>)
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Ce projet est une application Flutter démontrant l'utilisation du package Provider pour gérer l'état d'une application. Il comprend deux pages : une page d'accueil affichant un message de bienvenue et une page de paramètres où l'utilisateur peut entrer son nom d'utilisateur.
 
-A few resources to get you started if this is your first Flutter project:
+## Fonctionnalités
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Page d'accueil affichant un message de bienvenue dynamique.
+- Page de paramètres avec un champ de texte pour saisir un nom d'utilisateur.
+- Utilisation de Provider pour la gestion d'état.
+- Design réactif adapté aux différentes tailles d'écran.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clonez le dépôt :
+
+   ```bash
+   git clone https://github.com/alexyvanot/flutter_provider_demo/
+   ```
