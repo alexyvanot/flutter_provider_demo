@@ -1,7 +1,7 @@
 # Flutter Provider Demo
 
 <p align="center">
-  <img src="apppage.png" width="50%">
+  <img src="apppage.png" width="5%">
 </p>
 
 ## Description
